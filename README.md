@@ -38,6 +38,6 @@ $ python2 India.py
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/INDIA-ALL.git ; cd INDIA-ALL ; python2 India.py
 ```
- TOOL USER : (No Needed)</br>
- TOOL PASS : (No Needed</br>
+ TOOL USER : (Mr-James)</br>
+ TOOL PASS : (Mr-James)</br>
  [![Facebook](https://img.shields.io/badge/Facebook-JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
